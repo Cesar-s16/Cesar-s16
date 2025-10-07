@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-- 🔭 I’m currently working on Guemart C.A.
+- 🔭 I’m currently working on Guemart C.A. as a Backend Ingenieer
 
 <!--
 **Cesar-s16/Cesar-s16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
