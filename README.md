@@ -5,8 +5,8 @@ My name is César Sotillo. I'm a software ingeneer graduated from UCAB Guayana.
 [![committers.top badge](https://user-badge.committers.top/venezuela/Cesar-s16.svg)](https://user-badge.committers.top/venezuela/Cesar-s16)<img src="https://komarev.com/ghpvc/?username=Cesar-s16&style=flat-square"/>
 
 #### 📊 &nbsp;GitHub Stats
-![César's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesar-s16&show_icons=true&theme=default&hide_title=true&count_private=true)
-![Commits this year](https://github-readme-stats.vercel.app/api?username=Cesar-s16&show_icons=true&theme=default&hide_title=true&include_all_commits=false&custom_title=2024%20Stats)
+![César's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesar-s16&show_icons=true&theme=default&hide_title=true&include_all_commits=false&custom_title=2024%20Stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-s16&layout=compact&theme=default)e)
 
 #### 📱 &nbsp;Contact me 
 <a href="mailto:cesarsotillo16@gmail.com"><img src="https://img.shields.io/badge/-cesarsotillo16@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
