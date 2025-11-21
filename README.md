@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is César Sotillo. I'm a software ingeneer graduated from UCAB
+My name is César Sotillo. I'm a software ingeneer graduated from UCAB Guayana.
 
 [![committers.top badge](https://user-badge.committers.top/venezuela/Cesar-s16.svg)](https://user-badge.committers.top/venezuela/Cesar-s16)<img src="https://komarev.com/ghpvc/?username=Cesar-s16&style=flat-square"/>
 
